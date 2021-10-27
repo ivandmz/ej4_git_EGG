@@ -1,1 +1,0 @@
-git remote add origin https://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@github.com/ivandmz/ej4_git_EGG.git
